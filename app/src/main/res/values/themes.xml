@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.ParcelGrade" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:statusBarColor">@color/splash_bg</item>
+    </style>
+    <color name="splash_bg">#F3F1EA</color>
+    <color name="ic_bg">#1F3B2D</color>
+    <color name="ic_fg">#E2B04A</color>
+</resources>
